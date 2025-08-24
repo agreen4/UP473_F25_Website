@@ -1,0 +1,130 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+  
+website:
+  title: "Housing and Urban Policy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus/index.qmd
+        text: Syllabus
+      - href: schedule/index.qmd
+        text: Schedule
+      - href: assignments/index.qmd
+        text: Assignments
+      - href: resources/index.qmd
+        text: Resources
+    search: true
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
+
+  sidebar:
+    - title: "Schedule"
+      contents:
+        - section: "Course Schedule"
+          contents:
+            - text: "Course Schedule"
+              file: schedule/index.qmd
+            - text: "1. Course Introduction"
+              file: schedule/01_introduction.qmd
+            - text: "2. Conceptual Frameworks for Housing Analysis"
+              file: schedule/02_conceptual.qmd
+            - text: "3. How Well Are We Housed?"
+              file: schedule/03_housed.qmd
+            - text: "4. Government Intervention in Housing"
+              file: schedule/04_government.qmd
+            - text: "5 and 6. Reading Week"
+              file: schedule/05_readingwk.qmd
+            - text: "7. An Evolutionary History of Homeownership 1"
+              file: schedule/07_homeownership.qmd
+            - text: "8. An Evolutionary History of Homeownership 2"
+              file: schedule/08_homeownership2.qmd
+            - text: "9. Disparities in Access to Capital"
+              file: schedule/09_homeownership3.qmd
+            - text: "10. The Enduring Significance of Neighborhoods"
+              file: schedule/10_neighborhoods.qmd
+            - text: "11. Defining Affordable Housing"
+              file: schedule/11_affordable.qmd
+            - text: "12. Public Housing"
+              file: schedule/12_publichousing.qmd
+            - text: "13. Federally Assisted Housing"
+              file: schedule/13_fedassisted.qmd
+            - text: "14. Housing Production Strategies"
+              file: schedule/14_production.qmd
+            - text: "15. Legal Frameworks for Fair Housing"
+              file: schedule/15_fairhousing.qmd
+            - text: "19. Eviction"
+              file: schedule/19_eviction.qmd
+            - text: "20. Regulating Housing Environments"
+              file: schedule/20_hsgenv.qmd
+            - text: "21. Housing Market Discrimination"
+              file: schedule/21_discrimination.qmd
+            - text: "22. Aging"
+              file: schedule/22_aging.qmd
+            - text: "23. Disability"
+              file: schedule/23_disability.qmd
+            - text: "24. Houselessness"
+              file: schedule/24_houselessness.qmd
+            - text: "25. Housing and Health"
+              file: schedule/25_health.qmd
+            - text: "27 and 28. Fall Break"
+              file: schedule/27_break.qmd
+            - text: "29. Final Presentations"
+              file: schedule/29_presentations.qmd
+            - text: "30. Final Presentations"
+              file: schedule/30_presentations.qmd
+            - text: "31. Final Presentations"
+              file: schedule/31_presentations.qmd
+              
+    - title: "Assignments"
+      contents:
+        - section: "Overview"
+          contents:
+            - assignments/index.qmd
+        - section: "Assignments"
+          contents:
+            - text: "Exploring an Intersection"
+              file: assignments/01_intersection.qmd
+            - text: "Local Housing Market Analysis"
+              file: assignments/02_analysis.qmd
+            - text: "Housing Policy Analysis"
+              file: assignments/03_policy.qmd
+            - text: "Policy Proposal"
+              file: assignments/04_proposal.qmd
+            - text: "Policy Memo and Brief"
+              file: assignments/05_facilitation.qmd
+            - text: "Term Paper"
+              file: assignments/06_term.qmd
+            - text: "Seminar Participation and Engagement"
+              file: assignments/07_participation.qmd
+
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resources/index.qmd
+        - section: "Resources"
+          contents:
+            - resources/PWBTN.qmd
+            - resources/memo_tips.qmd
+
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+      dark: darkly
+    css: 
+      - styles.css
+    toc: true
+
+editor: visual
+

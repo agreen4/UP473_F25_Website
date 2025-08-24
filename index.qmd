@@ -1,0 +1,32 @@
+---
+title: "UP 473: Housing and Urban Policy"
+format: html
+toc: false
+editor: visual
+---
+
+Welcome to the UP 473: Housing and Urban Policy course website for the fall 2023 semester.
+
+:::::: home
+::::: {.grid .course-details}
+::: {.g-col-8 .g-col-sm-8 .g-col-md-8}
+### Instructor
+
+-   {{< fa user >}}   [{{< var instructor.name >}}]({{< var instructor.url >}})
+-   {{< fa university >}}   {{< var instructor.office >}}
+-   {{< fa envelope >}}   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+-   {{< fa brands github >}}   [Github]({{< var instructor.github >}})
+-   {{< fa brands twitter >}}   [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
+-   {{< fa brands mastodon >}}   [{{< var instructor.mastodon >}}]({{< var instructor.mastodon >}})
+-   {{< fa calendar-check >}}   [Schedule an appointment]({{< var instructor.calendly_url >}})
+:::
+
+::: {.g-col-4 .g-col-sm-4 .g-col-md-4}
+### Course details
+
+-   {{< fa calendar >}}   {{< var course.days >}}
+-   {{< fa clock >}}   {{< var course.time >}}
+-   {{< fa location-dot >}}   {{< var course.location >}}
+:::
+:::::
+::::::

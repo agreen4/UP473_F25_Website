@@ -1,0 +1,45 @@
+---
+title: "Housing Market Discrimination and Fair Housing"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. In this session, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
+
+## Learning Goals
+
+-   Understand the federal, state, and local infrastructure for monitoring and enforcing fair housing laws and rules.
+-   Understand the legal tests used to substantiate allegations of fair housing violations.
+-   Understand how advocates test for fair housing violations.
+-   Articulate and envision what future fair housing rules and rule making may entail.
+
+## Readings
+
+Schwartz 11
+
+Affirmatively Furthering Fair Housing Revisions (2025) [{{< fa globe >}}](https://www.federalregister.gov/documents/2025/03/03/2025-03360/affirmatively-furthering-fair-housing-revisions)
+
+Restoring Affirmatively Furthering Fair Housing Definitions and Certifications (2021) [{{< fa globe >}}](https://www.federalregister.gov/documents/2021/06/10/2021-12114/restoring-affirmatively-furthering-fair-housing-definitions-and-certifications)
+
+The Fairest of Them All: Analyzing Affirmatively Furthering Fair Housing Compliance [{{< fa globe >}}](https://www.tandfonline.com/doi/full/10.1080/10511482.2018.1469527)
+
+## Slides
+
+## Additional Resources
+
+-   New York Times - Selling Houses While Black
+
+-    [Disparate Impact and Fair Housing: Seven Cases You Should Know](https://www.propublica.org/article/disparate-impact-and-fair-housing-seven-cases-you-should-know)
+
+-    [Can you Game Your Way out of American Housing Injustice?](https://www.bloomberg.com/news/articles/2022-01-12/video-game-spotlights-racism-in-u-s-housing-system?srnd=citylab-housing) / [STEAM link](https://store.steampowered.com/app/1763520/Dots_Home/)
+
+-    [Housing Segregation in Everything](https://www.npr.org/sections/codeswitch/2018/04/11/601494521/video-housing-segregation-in-everything)
+
+<iframe width="100%" height="290" src="https://www.npr.org/player/embed/601131468/601396049" frameborder="0">
+
+</iframe>
+
+https://youtu.be/O5FBJyqfoLM

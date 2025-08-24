@@ -1,0 +1,31 @@
+---
+title: "Regulating Housing Environments"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+So far in class, we've focused largely on how policy impacts housing at a collective, rather than individual level. At the same time, policy and regulations reach inside our individual homes, typically in order to address fundamental issues of health, safety, and welfare. In this session, we'll explore the ways in which our individual relationships to housing are regulated via residential code enforcement.
+
+## Learning Goals
+
+-   Become familiar with household-scale regulations and regulatory institutions.
+-   Critically examine how such institutions balance enforcement and agency.
+-   Understand the social, political, and economic challenges associated with code enforcement.
+
+## Readings
+
+Code Enforcement as a Tool for Safe, Equitable & Affordable Housing [{{< fa globe >}}](https://housingactionil.org/downloads/PEO/UIUC-HAI_CodeEnforcementReport_2024_web-compressed.pdf)
+
+
+Robin Bartram - *Cracks in Broken Windows: How Objects Shape Professional Evaluation* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/rvhgseb71q2gn19044hfqtpynbu32zp4)
+
+## Slides
+
+## Additional Resources
+
+-   The Cost of Being Crime Free [{{< fa arrow-up-right-from-square >}}](https://www.povertylaw.org/wp-content/uploads/2020/10/cost-of-being-crime-free-rev-oct-2020.pdf)
+-   Local Housing Solutions - Housing Code Enforcement [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/rqgv397cn83q4qietbbloefpvsefanfs)
+    -   Cities for Responsible Investment and Strategic Enforcement, The Power & Proximity of Code Enforcement: A Tool for Equitable Neighborhoods [{{< fa globe >}}](https://hesterstreet.org/wp-content/uploads/2019/07/CR_-Phase-I-_Equitable-Code-Enforcement-report_FINAL-JUNE-2019.pdf)

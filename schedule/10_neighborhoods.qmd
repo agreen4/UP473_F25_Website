@@ -1,0 +1,74 @@
+---
+title: "The Enduring Significance of Neighborhoods"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+A primary theme of our class has been the enduring significance of neighborhoods for housing. We've looked at how these patterns of differentiation oftentimes overlay down to the block with patterns of racial and economic segregation. We've also looked at a range of policy tools used to address segregation and disinvestment in neighborhoods. So why despite all of these efforts are there such marked differences between neighborhoods and their power to support intergenerational wealth transfer and mobility?
+
+## Learning Goals
+
+-   Understand arguments for why segregation remains a major social and policy issue within the United States.
+-   Critically question the role of government in contributing to segregation.
+-   Question emerging grounds for the creation and sustaining of disparities across space and over time.
+
+### Facilitator's Learning Goals
+
+Reading 1
+- Role of neighborhood resources and infrastructure in shaping the economic and social stability of a neighborhood.
+- Recognizing and examining challenges and changes of social and economic stability in neighborhoods through reflective trends in American cities.
+- Understanding the influence of economic and social dynamics on the changing demographic composition of the neighborhood.
+
+Reading 2
+- Understand the role of neighborhood in reinforcing segregation through accounts and examples of Illinois
+- Understand the reasons behind prolonging segregation in the U.S.
+- Discover innovative system of measures that work against neighborhood segregation and its related inequality
+
+## Readings
+
+Rotella, Carlo - *The Unexpected Power of Your Old Neighborhood* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/h7hr4akg2t23bttvbbokr7hbavwqufk3)
+
+Governing Magazine Segregated in the Heartland Series [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/oq7e4cjqc9z8g6aryqprc8qodzv97t18)
+
+During the class session, you will split into groups who will have particular responsibility for certain articles. Please note your assigned groups below:
+
+-   How States and Cities Reinforce Racial Segregation in America [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/str4fcbyg0yqkle3raeixdykrdgvl40x)
+
+Karley C., Aabha S., Shinmyeong H., Hyndavi A., Priya S., Trinity L.
+
+-   How Schools Fuel White Flight [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/3f47twt9l32ptf0mjs3oss4z253upm5r)
+
+Cole F., Yingqi Y., Rose R.K., Prithvi H., Andrew S., Maria R.S.
+
+-   How Housing Policies Keep White Neighborhoods so White and Black Neighborhoods So Black [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/tn77ngoj0hnrd39f7q9c5lznmbw35x0x)
+
+Hexiang H., Emma B., Elle S., Janet H., Sepideh A., Shiva S.
+
+-   How Police and Anti-Crime Measures Reinforce Segregation [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/yq7kkl95fbnq9pe5yfp8ekq4ht4cspqs)
+
+Anjana N., Ar'Mand E., Michael V., Jenifer M., Julia P.
+
+## Slides
+
+## Additional Resources
+
+-   Galster, George, and Patrick Sharkey - *Spatial Foundations of Inequality A Conceptual Framework* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x6ujv7t7grpvz2czsj2n0hhe6fpzssnm)
+
+-   Prochaska, Natalie - *"Old" Urban Renewal in Champaign-Urbana, 1960-1969* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/0r8dngderxe99n4kya11h0r0q3pmavk4)
+
+-    [Baker, Dwayne, Esteban Lopez, and Andrew Greenlee, Transit Development and Housing Displacement: The Case of the Chicago Red Line Extension](https://www.tandfonline.com/doi/full/10.1080/14036096.2017.1284155)
+
+-    [Black Activity Spaces in Shaker Heights  ](https://www.tandfonline.com/doi/full/10.1080/26884674.2021.1972774)
+
+-    [Contractor, Annie, and Andrew Greenlee, Up-"Routing" Communities: Subaltern Voices Challenge Sustainable Urban Renewal in Fortaleza, Brazil](https://www.tandfonline.com/doi/full/10.1080/14036096.2017.1284155)
+
+-    [Keep, Miriam, Bernadette Montanari, Andrew Greenlee, Contesting "inclusive" development: Reactions to Slum Resettlement as Social Inclusion in Tamesna, Morocco](https://www.sciencedirect.com/science/article/pii/S0264275121002286)
+
+-    [Lee, et al., Transcriptomic Analyses of Black Women in Neighborhoods with High Levels of Violence](https://www.sciencedirect.com/science/article/pii/S0306453021000482)
+
+-    [Lee, C. Aujean, and Andrew Greenlee, Impacts of Multiscale Racial Concentration on Neighborhood Foreclosure Risk in Immigrant Gateway etropolitan Areas](https://journals.sagepub.com/doi/abs/10.1111/cico.12478)
+
+-    [Sutton, Stacey, Urban Revitalization in the United States: Policies and Practices (Sections 2-4)](https://uofi.box.com/s/ea307xgwlws48lu97msi9cqbjo8yfjr9)

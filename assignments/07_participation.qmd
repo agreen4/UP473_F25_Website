@@ -1,0 +1,22 @@
+---
+title: "Seminar Participation and Engagement"
+format: html
+toc: false
+editor: visual
+---
+
+To reiterate an important component of our [syllabus](../syllabus/index.qmd), the learning environment in this seminar depends upon your participation.
+
+In an advanced seminar, the goal of evaluating participation is not to try to compel you to engage in one certain way, however, my expectation is that you will:
+
+1.  Come to class prepared to engage with our course content.
+
+2.  Be an active contributor to our discussion.
+
+3.  Be an active conduit for resources and thoughts from outside of our course materials.
+
+4.  Engage thoughtfully with course guests and speakers.
+
+5.  Apply yourself in approaching our course conversations, assignments, and experiences.
+
+Please let me know if you have any questions about these baseline expectations.

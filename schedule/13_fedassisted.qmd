@@ -1,0 +1,32 @@
+---
+title: "Federally Assisted Housing"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Housing vouchers involve private market landlords to deliver affordable housing by paying a portion of the tenant's rent to make their share of the rent more affordable. Aside from delivering on housing quality and affordability promises, vouchers have become a major tool in the fight for housing choice, and have been used in both experimental programs and as legal remedies for racial and economic segregation. This week we'll explore the evolution of the voucher program and will examine the strengths and limitations of leveraging vouchers for affordability and accessibility of housing.
+
+## Learning Goals
+
+-   Understand the primary rationale for the creation of the Housing Choice Voucher program.
+-   Understand the main arguments for policy experiments involving housing vouchers.
+-   Critically examine the program delivery model for the program, particularly in light of recent policy debates regarding housing instability and wellbeing.
+
+## Readings
+
+Schwartz 8
+
+Rosen, Eva - *The Voucher Promise: Section 8 and the Fate of an American Neighborhood* Chapter 3 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/cz7bib0gehex55826dhdknaqnq1hba92), Chapter 7 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/12wz4cgqv8x653u2fc57cndcbsc4hrz5)
+
+Affordable Housing Crisis Has "Waitlist Shoppers" Across U.S. Vying for Few Arizona Vouchers   [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/h22w6no3pzoyda2z44t5yv9xttgpjbts)   [{{< fa globe >}}](https://www.azcentral.com/in-depth/news/local/arizona/2023/03/08/affordable-housing-crisis-waitlist-shoppers-arizona-vouchers/8293656001/) \## Slides
+
+## Additional Resources
+
+-   [Greenlee, Andrew, More Than Meets the Market? Landlord Agency in the Illinois Housing Choice Voucher Program](https://www.tandfonline.com/doi/full/10.1080/10511482.2014.913649)
+
+-    [Greenlee, Andrew, A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program](https://www.tandfonline.com/doi/full/10.1080/10511482.2011.591409)
+
+-    [Kasakove, Sophie, A Major Chicago Public-Housing Lawsuit is Wrapping Up. The Segregation it Fought Against Lives On](https://uofi.box.com/s/zrruoiuje09a90sysjvlbc1r5hxal0wg)

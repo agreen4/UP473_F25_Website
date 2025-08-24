@@ -1,0 +1,47 @@
+---
+title: "Housing Production Strategies"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Today, we will examine a range of housing production strategies, many that involve public-private partnerships or incentives to deliver affordable housing. We'll also talk about the Opportunity Zone program which leverages tax benefits to investors for investments in eligible underinvested neighborhoods.
+
+## Learning Goals
+
+-   Understand why governments might incentivize capital investment in distressed neighborhoods.
+-   Critically engage with policy debates regarding the benefits and costs of place-based capital incentives.
+
+## Readings
+
+Low-Income Housing Tax Credit (LIHTC) Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxwpoLztx70?si=sVoQ5yV0TR5DWwRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+How Real Estate Developers Make More Profit off of Low-Income Housing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hiuHzXfRLpE?si=-QLVbfva6V9rqd3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+How Investors Exploit Opportunity Zones
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3ixowazShE?si=k2_zZTySvtgeJFEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+Schwartz
+
+-   Chapter 4
+
+-   Chapter 5
+
+-   Chapter 7
+
+## Slides
+
+## Additional Resources

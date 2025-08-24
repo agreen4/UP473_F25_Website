@@ -1,0 +1,50 @@
+---
+title: "Houselessness"
+format: html
+toc: true
+editor: source
+---
+
+## Description
+
+In this session, we will examine the unique housing needs and trends, and policy solutions associated with houselessness. 
+
+## Learning Goals
+
+-   Understand common standards for measuring homelessnes.
+-   Understand how local continuums of care provide services.
+-   Envision how housing policy might respond to the housing needs of individuals without regular access to a house.
+
+## Readings
+
+Schwartz 12
+
+Introduction to *The Undeserving Poor* by Michael Katz [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ciy03bjrvvpv5xh08gke3jhgk531wt3e)
+
+State of Homelessness 2024 Edition (skim) [{{< fa arrow-up-right-from-square >}}](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness/)
+
+Last Week Tonight - Homelessness
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/liptMbjF3EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+## Slides
+
+## Additional Resources
+
+-    99% Invisible: According to Need
+
+    -    [Chapter 1: Tulicia](https://99percentinvisible.org/episode/according-to-need-chapter-1-tulicia/)
+
+    -    [Chapter 2: The Hotline](https://99percentinvisible.org/episode/according-to-need-chapter-2-the-homelessness-hotline/)
+
+    -    [Chapter 3: Housing First](https://99percentinvisible.org/episode/according-to-need-chapter-3-housing-first/)
+
+    -    [Chapter 4: The List](https://99percentinvisible.org/episode/according-to-need-chapter-4-the-list/)
+
+    -    [Chapter 5: Housing Finally](https://99percentinvisible.org/episode/according-to-need-chapter-5-housing-finally/)
+
+-    Seattle Times - [She Didn't Want to Die Homeless. But in Seattle, There Were Few Places To Turn.](https://www.seattletimes.com/seattle-news/homeless/she-didnt-want-to-die-without-a-home-but-even-with-cancer-she-had-few-options-in-seattle/)
+
+-    [Together as a Family: Multigenerational Living Rises in a Pandemic](https://www.washingtonpost.com/realestate/together-as-a-family-multigenerational-living-rises-in-pandemic/2021/05/12/bd8598f6-a900-11eb-8d25-7b30e74923ea_story.html)

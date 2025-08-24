@@ -1,0 +1,52 @@
+---
+title: "Policy Memo"
+format: html
+toc: false
+editor: visual
+---
+
+## Assignment Goals
+
+Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to prepare policy memos that brief a course on a specific topical area of your choice, to share that written brief with the class, and to facilitate discussion of it.
+
+## Assigned Groups
+
+### 
+
+## Tips for Preparing Your Memo
+
+We will have a *Reading Week* early in the semester in which you'll develop your topical focus for your memo and through which you will be expected to advance your research on the chosen topic area of your choice.
+
+Your memo will be shared with the other members of our class, and you will be assigned a time during one of our course sessions to brief the class on your memo and to facilitate discussion about it.
+
+## Example Policy Memo Topics
+
+You will have wide breadth in terms of the topics you choose to write your policy memo on. Aside from being assigned to a particular "big picture" question, you get to determine the housing policy or phenomenon you will brief the class on. To provide you with some inspiration, here are a few example ideas falling within each big picture question area:
+
+### How do we ensure housing stability?
+
+-   Extending access to capital using community development financial institutions
+-   Impacts of private equity investors in local housing markets
+-   Maintaining affordable housing in shrinking cities
+-   How does housing for co-ops differ from other forms of owner-occupied housing
+
+### Where are poor people to live? What housing are poor people to occupy?
+
+-   Policy drivers of the suburbanization of poverty
+-   Social design of inclusionary housing
+-   Stabilizing naturally occurring affordable housing opportunities
+-   Local government strategies for managing gentrification
+
+### How do we ensure fairness in housing?
+
+-   Impact of tenant-based social movements on housing policy
+-   How has federal immigration policy impacted landlord-tenant relationships
+-   Universal basic income programs and housing accessibility
+-   Legal tests for deed restrictions and restrictive covenants
+
+### How do we address the housing needs of certain populations?
+
+-   Policy mechanisms and provisions of Chicago's Green Healthy Housing Ordinance
+-   Frameworks for using housing as a healthcare intervention
+-   Building technology applications for specialized populations
+-   Policy strategies to promote aging in place

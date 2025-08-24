@@ -1,0 +1,10 @@
+---
+title: "Fall Break - No Class"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Enjoy your fall break! Please be safe and be well.

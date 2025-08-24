@@ -1,0 +1,56 @@
+---
+title: "Course Introduction"
+format: html
+toc: true
+editor: source
+---
+
+## Description
+
+In our first course session, we'll discuss the overall layout and structure of our course. We'll spend time talking about the conceptual and practical reasons for examining housing and housing policies in the United States, and will explore the ways that housing has helped to shape our own life experiences. We'll also explore your existing perceptions and frameworks for thinking about the role of housing and housing policy in shaping the qualities and experience of place.
+
+## Learning Goals
+
+-   Introduce our course structure and broader goals.
+-   Introduce our learning community.
+-   Begin to question how housing structures elements of our lives.
+
+## Readings
+
+-   Course Syllabus &nbsp; [{{< fa arrow-up-right-from-square >}}](../syllabus/index.qmd)
+
+-   Assignments &nbsp; [{{< fa arrow-up-right-from-square >}}](../assignments/index.qmd)
+
+-   Course Introductory Survey (Before Class) &nbsp; [{{< fa arrow-up-right-from-square >}}](https://forms.illinois.edu/sec/1061539887)
+
+-   Schwartz Chapter 1 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/we7dcju032g7cov6z9oyoz932i0o0rbg)
+
+## In Class
+
+In class, you will split into small groups to begin exploring the following articles and will work together to develop models of the housing system(s) that relate to the  articles. We'll take 20 minutes in class for you to discuss and develop your group conceptual models, but please read  before our first class session so your group can maximize time for discussion and conceptualization.
+
+#### Homeless and Burning in America's Hottest City 
+
+[{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/86mrfj5jdd6ju5kffa9dy2z757jnb55v) &nbsp; [{{< fa globe >}}](https://www.nytimes.com/2025/08/13/well/homeless-heat-phoenix.html)
+
+Barua, Conlon, De Haro, Hur, Pane, Yarusso
+
+#### The Founders of This New Development Say You Must be White to Live There 
+
+[{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/o88uy0oli836k567yyvd5ohbvoccme9g) &nbsp; [{{< fa globe >}}](https://www.nytimes.com/2025/08/19/realestate/arkansas-white-housing-return-to-land.html)
+
+Benson, Cooper, Douglas, Klementiev, Pujol
+
+#### How Cuomo Wants to Limit Who Gets to Live in Rent-Stabilized Units 
+
+[{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/boh9hao645zhnajbhcy3g3pvwmtova14) &nbsp; [{{< fa globe >}}](https://www.nytimes.com/2025/08/14/nyregion/cuomo-mamdani-zohrans-law.html)
+
+Camargo, Crispin, Gerstung, Kopec, Reinacher
+
+#### Patterson Called to Resign as Budget Vote Gets Pushed Back Again 
+
+[{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/82wj79uaqefuqc8zyb52faupqy1l4ofl) &nbsp; [{{< fa globe >}}](https://www.news-gazette.com/news/patterson-called-to-resign-as-budget-vote-gets-pushed-back-again/article_5dc8150d-93de-41d1-90ee-1792e178d870.html)
+
+Cardani, Crites, Happold, Liu, Schoeff
+
+## Additional Resources

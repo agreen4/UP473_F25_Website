@@ -1,0 +1,41 @@
+---
+title: "Memorandum Writing Tips"
+format: html
+editor: visual
+---
+
+Memos are often used by urban planners to share information within their agency or with other planners or local government officials. Within the planning practice context, memos tend to be concise documents that may contain either requested information for staff or recommendations on how to proceed with a particular issue. 
+
+As a planning student, your memos should strive to be clear and concise with a logical structure, clear and well-designed illustrations and visualizations, proper formatting, and spelling. You should use footnotes to reference any cited materials or work that is not your own. Please feel free to contact me with any questions about memo writing.
+
+Take a look at an [annotated memo example here](Greenlee_Memo_Example.pdf).
+
+## Guidelines
+
+### Organization
+
+A memo should be clear, concise, and organized in a logical fashion. 
+
+Information within a memo should be organized in a logical fashion. You may choose to use section headings to help your audience find particular information more easily.
+
+General information should be presented first followed by more detailed information. As you support information with evidence, you should follow the same progression of general -> specific.
+
+### Header
+Memos start with a heading that includes the name of the memo author, name of memo recipient, date, and a descriptive subject.
+
+**From:** Jane Q. Planner, Planner 1 </br>
+**To:** Elizabeth Wood, Planning Director </br>
+**Date:** September 11, 2023 </br>
+**Re:** Recommendation on Zoning Change for Greenlee Parcel </br>
+
+### Introduction
+
+A memo is typically written in response to something. The first paragraph of the memo should describe what the memo is responding to, and should summarize what the writer of the memo has done to prepare the response. The first paragraph should also summarize any key findings or recommendations.
+
+### Recommendations and Conclusion
+
+Memos should conclude with a summary statement that encapsulates the key findings which you have come up with. If you are providing any recommendations in your memo, you may also want to re-state your recommendations here, and provide instructions or suggestions on how to follow- up on your recommendations.
+
+### Appendix
+
+Because a memo is designed to be a fairly concise document, you may have important extra information which would be useful to share with the memo’s audience, but which does not fit within the main memorandum. Such items can be included as an appendix or attachment to the memo, and should be referenced as appropriate within the memo e.g. “See the attached document for the property surveyor’s description of the Greenlee parcel”.

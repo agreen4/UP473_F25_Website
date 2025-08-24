@@ -1,0 +1,32 @@
+---
+title: "Ageing"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Over our lifetimes, our housing needs change as we age. In the United States, overall life expectancy has increased dramatically from 69.8 years in 1960 to 78.4 years in 2023 per the Centers for Disease Control and Prevention. This demographic shift has implications for housing supply and demand. In this session, we will examine the unique housing needs of ageing individuals, and will explore the range of policy tools and strategies to provide inclusive, long-term housing solutions.
+
+## Learning Goals
+
+-   Envision how housing policy might respond to the housing needs of an ageing population.
+
+## Readings
+
+Schwartz 10
+
+Interagency Coordinating Committee on Healthy Aging and Age-Friendly Communities (2024). Aging in the United States: A Strategic Framework for a National Plan on Aging. [{{< fa arrow-up-right-from-square >}}](https://acl.gov/sites/default/files/ICC-Aging/StrategicFramework-NationalPlanOnAging-2024.pdf)
+
+American Planning Association. Aging in Place: Planning’s Role and Responsibilities. [{{< fa globe >}}](https://www.planning.org/podcast/aging-in-place-plannings-role-and-responsibilities/)
+
+PBS News Hour - How More Americans are "Aging in Place"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5VqgSkN14JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+## Additional Resources
+
+UP 597: Planning for the Silver Tsunami: Alternatives for an Aging Society  [{{< fa globe >}}](https://up597f25.netlify.app)

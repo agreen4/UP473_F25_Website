@@ -1,0 +1,45 @@
+---
+title: "Conceptual Frameworks for Housing Analysis"
+format: html
+toc: true
+editor: source
+---
+
+## Description
+
+During this session, we will explore several key conceptual frameworks for analyzing or understanding housing and urban policy. Over the course of today's conversation, we'll explore six frameworks - spatial distribution, class, demographics, public discourse, rights, and design, in order to question *who shapes housing* and *what does housing shape*.
+
+## Learning Goals
+
+- Think conceptually about the role of housing in society
+- Apply previous knowledge of key frameworks for housing analysis to our conversation
+- Articulate key questions associated with each framework
+
+## Readings
+
+- Schwartz 2 &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/aesht3gbes3bqfpvtc3xhghr2121m74a)
+
+- The Housing Crisis is Breaking People's Brains &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/h9cxvcbf0z0kupbud8vwyvm2jjl1s7uq) &nbsp; [{{< fa globe >}}](https://www.theatlantic.com/ideas/archive/2022/11/us-housing-supply-shortage-crisis-2022/672240/)
+
+- Deconstructing the "Housing Crisis" &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/idiqw35w16nyc4h4nhrmf13p6prhjwyb) &nbsp; [{{< fa globe >}}](https://belonging.berkeley.edu/deconstructing-housing-crisis)
+
+## Reflect
+
+1.  How could we reframe public narrative around supply skepticism and shortage denialism to guide the development of new (affordable) housing?
+2.  Why might housing production and price issues start in coastal states and then spread elsewhere in the U.S.?
+3.  How would you develop a mental model of the housing production and delivery system? Within this model, where would you situate the 13 different crises discussed
+    1.  There is a lack of housing available to lower-income and low-wealth individuals and families.
+    2.  The median (or mean) price of housing has become too expensive.
+    3.  There is a severe rental housing crisis.
+    4.  There is a housing production deficit problem.
+    5.  There is a jobs/housing imbalance problem.
+    6.  There is a related problem of the jobs/housing fit.
+    7.  There is the problem of sprawl.
+    8.  There is an eviction crisis.
+    9.  There is a homelessness crisis.
+    10. There is a gentrification and displacement crisis.
+    11. There is a worsening racial divide in homeownership rates.
+    12. There is a serious problem of exclusionary zoning.
+    13. There remains a fair housing crisis.
+
+## Additional Resources

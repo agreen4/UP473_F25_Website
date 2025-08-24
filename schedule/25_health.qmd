@@ -1,0 +1,25 @@
+---
+title: "Housing and Health"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+So far in class, we've focused largely on how policy impacts housing at a collective, rather than individual level. At the same time, policy and regulations reach inside our individual homes, typically in order to address fundamental issues of health, safety, and welfare. In this session, we'll examine the intersection of housing and health from multiple perspectives.
+
+## Learning Goals
+
+-   Become familiar with debates about how housing and health intersect.
+-   Think critically about the relationship between housing and health, and ways we can intervene to improve both in tandem.
+
+## Readings
+
+Permeable Homes: A Historical Political Ecology of Insects and Pesticides in Public Housing   [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/hkx9l9wb3xpe0dq78zj9xn6h3kfs6ngw)
+
+They're Back: Municipal Responses to the Resurgence of Bed Bug Infestations   [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/tumoanbdev9xfre78nrs3p528djorlpw)
+
+## Slides
+
+## Additional Resources

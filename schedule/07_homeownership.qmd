@@ -1,0 +1,45 @@
+---
+title: "An Evolutionary History of Homeownership - Session 1"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Today, we'll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We'll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We'll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
+
+## Learning Goals
+
+-   Develop an understanding of homeownership as simultaneously a material and political project in the United States.
+-   Understand the evolution of key financial mechanisms that underscore homeownership.
+-   Articulate some of the risks and rewards associated with owner-occupied housing.
+
+### Facilitator's Goals
+
+-   Understand the steps to owning a home / what is the difference between rowning and renting
+-   Know how the 2007-2008 Financial Crisis impacted housing
+-   Look at how housing became a key part of the American Dream and how this ideal is shifting.
+
+## Readings
+
+Rethinking Homeownership as the American Dream  [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/se23crvw6y9ro3btz5o7aoclq19igeat)   [{{< fa globe >}}](https://www.urban.org/urban-wire/rethinking-homeownership-american-dream)
+
+[Financial Crisis Inquiry Commission Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
+
+## Key Terms and Items to Review
+
+-   Mortgage
+-   2008 financial crisis
+-   Great depression
+-   Subprime lending
+
+## Slides
+
+## Additional Resources
+
+-   Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process   [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/bjtf9cbzwcjojvocyp7yzmyzp2xvoki4)
+
+-    [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)
+
+-    [Black Homeowners Face Discrimination in Appraisals](https://www.nytimes.com/2020/08/25/realestate/blacks-minorities-appraisals-discrimination.html)

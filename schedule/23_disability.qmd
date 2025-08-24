@@ -1,0 +1,31 @@
+---
+title: "Disability"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+In this session, we will examine the unique housing needs of individuals with disabilities, and will explore the range of policy tools and strategies to provide inclusive, long-term housing solutions.
+
+## Learning Goals
+
+-   Recognize common barriers to housing for people with disabilities.
+
+## Readings
+
+Schwartz 10
+
+People With Disabilities Living int he US Face Urgent Barriers to Housing [{{< fa globe >}}](https://www.urban.org/sites/default/files/2022-10/People%20with%20Disabilities%20Living%20in%20the%20US%20Face%20Urgent%20Barriers%20to%20Housing_0.pdf)
+
+Access Denied: An Overview of the Housing Crisis for People with Disabilities [{{< fa globe >}}](https://cvision.org/wp-content/uploads/2024/05/Access-Denied-Community-Vision.pdf)
+
+The State of Housing in America in the 21st Century: A Disability Perspective (Skim, read policy recommendations) [{{< fa globe >}}](https://www.ncd.gov/assets/uploads/reports/2010/ncd-housing-report-2010.pdf)
+
+
+
+
+## Additional Resources
+
+National Disability Policy: A Progress Report 2024 [{{< fa globe >}}](https://www.ncd.gov/report/national-disability-policy-a-progress-report-2024/)

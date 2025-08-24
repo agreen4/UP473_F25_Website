@@ -1,0 +1,39 @@
+---
+title: "An Evolutionary History of Homeownership - Session 2"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Today, we'll continue our conversation on the dynamics of homeownership in the United States, focusing on disparities in access to homeownership opportunities, and the implications of these disparities for the building and transfer of wealth.
+
+## Learning Goals
+
+-   Articulate some of the risks and rewards associated with owner-occupied housing.
+-   Understand how access to capital and access to ownership opportunities has been used as a means of underscoring spatial segregation and inequality.
+
+### Facilitator's Goals
+
+-   Understand the history of segregation in housing in the U.S.
+-   Look at the factors impacting and driving continued segregation in housing
+-   Explore the future of these dispartieis and ways to address them
+
+## Key Terms and Items for Review
+
+-   Fair Housing Act
+-   U.S. Department of Housing and Urban Development
+-   Dodd-Frank Wall Street Reform and Consumer Protection Act
+
+## Readings
+
+10 Years Later: How the Housing Market Has Changed Since the Crash   [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/wonv4vj9hx03jjxaz3lvqkulndxd2n3c)
+
+Nikole Hannah-Jones - *What is Owed* [{{< fa globe >}}](https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html)
+
+Brookings Institution - *The Great Real Estate Reset* [{{< fa globe >}}](https://www.brookings.edu/articles/trend-1-separate-and-unequal-neighborhoods-are-sustaining-racial-and-economic-injustice-in-the-us/)
+
+## Slides
+
+## Additional Resources
