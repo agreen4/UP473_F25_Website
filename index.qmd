@@ -5,7 +5,7 @@ toc: false
 editor: visual
 ---
 
-Welcome to the UP 473: Housing and Urban Policy course website for the fall 2023 semester.
+Welcome to the UP 473: Housing and Urban Policy course website for the fall 2025 semester.
 
 :::::: home
 ::::: {.grid .course-details}
