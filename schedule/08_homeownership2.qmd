@@ -13,18 +13,9 @@ Today, we'll continue our conversation on the dynamics of homeownership in the U
 
 -   Articulate some of the risks and rewards associated with owner-occupied housing.
 -   Understand how access to capital and access to ownership opportunities has been used as a means of underscoring spatial segregation and inequality.
-
-### Facilitator's Goals
-
 -   Understand the history of segregation in housing in the U.S.
 -   Look at the factors impacting and driving continued segregation in housing
--   Explore the future of these dispartieis and ways to address them
-
-## Key Terms and Items for Review
-
--   Fair Housing Act
--   U.S. Department of Housing and Urban Development
--   Dodd-Frank Wall Street Reform and Consumer Protection Act
+-   Explore the future of these disparities and ways to address them
 
 ## Readings
 
@@ -37,3 +28,5 @@ Brookings Institution - *The Great Real Estate Reset* [{{< fa globe >}}](https:/
 ## Slides
 
 ## Additional Resources
+
+[Financial Crisis Inquiry Commission Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
