@@ -7,16 +7,22 @@ editor: visual
 
 ## Description
 
-A primary theme of our class has been the enduring significance of neighborhoods for housing. We've looked at how these patterns of differentiation oftentimes overlay down to the block with patterns of racial and economic segregation. We've also looked at a range of policy tools used to address segregation and disinvestment in neighborhoods. So why despite all of these efforts are there such marked differences between neighborhoods and their power to support intergenerational wealth transfer and mobility?
+We often talk about housing being affordable, but what does affordable actually mean? In this session, we'll explore some of the various definitions for what affordability is and will question how those definitions might impact both policy making and policy implementation.
 
 ## Learning Goals
 
--   Understand arguments for why segregation remains a major social and policy issue within the United States.
--   Critically question the role of government in contributing to segregation.
--   Question emerging grounds for the creation and sustaining of disparities across space and over time.
+-   Become familiar with various definitions of housing affordability within the United States.
+-   Understand how affordability relates to other key concepts including income and poverty.
+-   Think critically about how affordability matters for housing consumption.
 
 ## Readings
 
-## 
+Tilly, Chris - The Economic Environment of Housing: Income Inequality and Insecurity [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x6zrr3q3h6f8lssvfocv366sn7oq4ou1)
+
+Michael E. Stone - Housing Affordability: One-Third of a Nation Shelter-Poor [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/y87c02aelj78uvf9uzld472cqp1pb5ng)
+
+Douglas on [Inclusionary Zoning](https://uofi.box.com/s/2n7f37j9iaf95n06a4lxhwd8c30pj3i5)
+
+Crispin on TBD
 
 ## Additional Resources
