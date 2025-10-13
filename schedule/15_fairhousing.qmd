@@ -1,5 +1,5 @@
 ---
-title: "Housing Market Discrimination and Fair Housing"
+title: "Legal Frameworks For Fair Housing"
 format: html
 toc: true
 editor: visual
