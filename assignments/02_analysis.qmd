@@ -45,7 +45,7 @@ I encourage you to reach out to me as you work to define your market, to get con
 
 I suggest you use the [Local Housing Solutions Housing Needs Assessment](https://localhousingsolutions.org/housing-needs-assessment/) tool to help you generate baseline data for your analysis. You may wish to supplement data from the Local Housing Solutions website with other data sources. 
 
-Data from The Census Bureau's American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov/) website allows you to query data for different survey years and geographies.
+Data from The Census Bureau's American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov/) website allows you to query data for different survey years and geographies. I am also providing [R code and datasets](https://uofi.box.com/s/by6nq9569j2f09dj059lx5nuj3u0vond) for 2010 and 2020 at various geographic summary levels.
 
 Below, you will find helpful information including ACS table numbers (e.g. the population table is B01003) as well as guidance on analytical steps you may wish to take:
 

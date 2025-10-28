@@ -6,7 +6,7 @@ editor: visual
 
 ## Assignment Resources
 
--   [UP 473 Housing Indicator Data and Code](https://github.com/agreen4/UP-473-S22-Code) repository contains both data and R code to download common housing indicators including those that are specifically called for in your assignments. Please note that the code available here is for your reference. You do not have to use R or similar tools to perform your analysis.
+-   [UP 473 Housing Indicator Data and Code](https://github.com/agreen4/UP-473-S22-Code) repository contains both data and R code to download common housing indicators including those that are specifically called for in your assignments. Please note that the code available here is for your reference. You do not have to use R or similar tools to perform your analysis. I have also provided [updated code and datasets](https://uofi.box.com/s/by6nq9569j2f09dj059lx5nuj3u0vond) covering 2010 and 2020.
 
 -   [Communicating Quantitative Information](PWBTN.qmd) - a reference manual based on [Professional Writing By the Numbers](https://uofi.box.com/s/8sd9ievwu7gumwg5co5eqy9ebrj3k4vg) - a reference manual by [Dr. Edward Feser](https://leadership.oregonstate.edu/provost/about/provost-edward-feser) on professional writing for policy professionals.
 
