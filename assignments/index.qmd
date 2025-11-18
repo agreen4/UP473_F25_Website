@@ -7,24 +7,28 @@ editor: visual
 
 Assignments in Housing and Urban Policy are designed to offer the opportunity to explore the issues, policies, and practices of professionals engaging these issues. Your assignments are designed to build upon each other and culminate for undergraduates with the production of a housing policy analysis, for Master's students with a professional housing policy platform, and for Doctoral students with the production of a term paper. In addition to these individual assignments, you will each prepare a policy memo and will all take turns facilitating the discussion of your memo - an important contribution to us building a shared body of knowledge together.
 
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| Assignment                                                   | Undergraduate | Masters | Doctoral | Due Date       |
-+==============================================================+===============+=========+==========+================+
-| [Exploring an Intersection](01_intersection.qmd)             | 25%           | 10%     | 10%      | 9/15/2025      |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| [Local Housing Market Analysis](02_analysis.qmd)             | 25%           | 10%     |          | ~~10/27/2025~~ |
-|                                                              |               |         |          |                |
-|                                                              |               |         |          | 11/3/2025      |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| [Housing Policy Analysis](03_policy.qmd)                     | 30%           | 10%     |          | 12/1/2025      |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| [Housing Platform](04_proposal.qmd)                          |               | 50%     |          | 12/15/2025     |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| [Policy Memo and Brief](05_facilitation.qmd)                 | 10%           | 10%     | 10%      | Varies         |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| [Term Paper](06_term.qmd)                                    |               |         | 70%      | 12/15/2025     |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
-| [Seminar Participation and Engagement](07_participation.qmd) | 10%           | 10%     | 10%      | Throughout     |
-+--------------------------------------------------------------+---------------+---------+----------+----------------+
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| Assignment                                                   | Undergraduate | Masters | Doctoral | Due Date                                   |
++==============================================================+===============+=========+==========+============================================+
+| [Exploring an Intersection](01_intersection.qmd)             | 25%           | 10%     | 10%      | 9/15/2025                                  |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| [Local Housing Market Analysis](02_analysis.qmd)             | 25%           | 10%     |          | ~~10/27/2025~~                             |
+|                                                              |               |         |          |                                            |
+|                                                              |               |         |          | 11/3/2025                                  |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| [Housing Policy Analysis](03_policy.qmd)                     | 30%           | 10%     |          | 12/1/2025                                  |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| [Housing Platform](04_proposal.qmd)                          |               | 50%     |          | Presentation: 12/1/2025                    |
+|                                                              |               |         |          |                                            |
+|                                                              |               |         |          | Assignment: 12/15/2025                     |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| [Policy Memo and Brief](05_facilitation.qmd)                 | 10%           | 10%     | 10%      | Varies                                     |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| [Term Paper](06_term.qmd)                                    |               |         | 70%      | Presentation: 12/8/2025                    |
+|                                                              |               |         |          |                                            |
+|                                                              |               |         |          | Term Paper: 12/15/2025                     |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
+| [Seminar Participation and Engagement](07_participation.qmd) | 10%           | 10%     | 10%      | Throughout                                 |
++--------------------------------------------------------------+---------------+---------+----------+--------------------------------------------+
 
 For more information on assignment grading and expectations, please refer to the individual assignments and to our [course syllabus](../syllabus/#grading).
